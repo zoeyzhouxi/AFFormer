@@ -1,0 +1,12 @@
+tqdm==4.67.0
+tensorboardX==2.6.2.2
+shapely==2.0.0
+pyquaternion==0.9.9
+open3d==0.18.0
+pypcd4==1.3.0 # Modify line 12 in opencood/utils/pcd_utils.py to import pypcd4 as pypcd
+icecream==2.1.3
+cython==3.0.11
+h5py==3.12.1
+einops==0.8.0
+wandb==0.18.7
+timm==1.0.19

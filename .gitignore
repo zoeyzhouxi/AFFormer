@@ -1,0 +1,7 @@
+__pycache__/
+**/sh/
+dataset/
+**/logs/
+.env
+.vscode/
+back_up.py
